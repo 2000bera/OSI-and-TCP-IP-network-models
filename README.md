@@ -25,13 +25,13 @@ Python 3
 Open in Colab:
 
 
-https://colab.research.google.com/drive/1ocX2wNv4KERg-sLJ9HkEwVChQMH9Y9To#scrollTo=sUoTt-z6pJIV
+
 
   
 ## 🔎 Results
 
 
-## 📟 Presentation
+## 📹 Presentation
 
 
 ## 📚 Learnings
